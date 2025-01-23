@@ -33,16 +33,16 @@ The goal is write a program in C which calculates and displays on the standard o
     * rrr: rra and rrb at the same time
 
 ## Push Swap 3
-https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%203.gif
+!(https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%203.gif)
 
 ## Push Swap 5
-https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%205.gif
+!(https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%205.gif)
 
 ## Push Swap 50
-https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%2050.gif
+!(https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%2050.gif)
 
 ## Push Swap 100
-https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%20100.gif
+!(https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%20100.gif)
 
 ## Push Swap 500
-https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%20500.gif
+!(https://github.com/matheusinfingardi/push_swap/blob/main/push_swap/Push%20Swap%20-%20500.gif)
